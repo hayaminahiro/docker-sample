@@ -30,3 +30,4 @@
 Dockerfiles/mysql/volumes/ib_buffer_pool
 Dockerfiles/mysql/volumes/ib_logfile0
 Dockerfiles/mysql/volumes/ibdata1
+Dockerfiles/mysql/volumes/ibtmp1
